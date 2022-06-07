@@ -1,0 +1,13 @@
+# Project exclude paths
+/project/project/
+/project/target/
+/target/
+target
+.idea/
+.bsp
+/modules/core/src/main/scala/scratch/
+.metals/
+.vscode/
+.bloop/
+.history/
+project/metals.sbt
